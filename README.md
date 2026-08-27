@@ -1,2 +1,2 @@
 A french backend that i've made in rust.
-Backend prob so shit that i don't even know if it working in-game
+Backend prob so shit that i don't even know if it working in-game. And this backend is using lawinserver .json files
