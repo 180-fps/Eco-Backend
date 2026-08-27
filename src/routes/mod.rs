@@ -1,0 +1,16 @@
+pub mod version;
+pub mod contentpages;
+pub mod account;
+pub mod lightswitch;
+pub mod auth;
+pub mod datarouter;
+pub mod cloudstorage;
+pub mod mcp;
+pub mod storefront;
+pub mod discovery;
+pub mod party;
+pub mod user;
+pub mod friends;
+pub mod matchmaking;
+pub mod legal;
+pub mod misc;
