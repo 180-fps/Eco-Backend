@@ -1,5 +1,4 @@
-/// Parsed Fortnite client version info from the User-Agent header.
-/// Mirrors the JS `GetVersionInfo(req)` from Better-Reload.
+
 #[derive(Debug, Clone)]
 pub struct VersionInfo {
     pub season: u32,
