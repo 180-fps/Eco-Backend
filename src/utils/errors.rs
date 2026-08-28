@@ -1,8 +1,7 @@
 use axum::{http::StatusCode, response::{IntoResponse, Response}, Json};
 use serde_json::json;
 
-/// Creates an Epic Games style error response.
-/// Mirrors `error.createError()` from Better-Reload.
+
 #[allow(dead_code)]
 pub fn create_error(
     error_code: &str,
